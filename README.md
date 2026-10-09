@@ -29,3 +29,9 @@ The repository was empty at the initial census. These documents establish a prov
 4. Add explicit adapters with strict timeouts and no hidden execution
 
 See [ARCHITECTURE.md](ARCHITECTURE.md) and [PROJECT_CARD.json](PROJECT_CARD.json).
+
+## Rescan discoveries — 2026-10-09
+
+- [Source discovery status and public visibility note](sources/DISCOVERY_STATUS.md)
+
+Source-discovery records are not evidence of working builds, tested hardware, or permission to execute imported files.
