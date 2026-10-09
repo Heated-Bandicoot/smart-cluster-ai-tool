@@ -1,0 +1,40 @@
+{
+  "project_id": "SMART-CLUSTER-AI-TOOL",
+  "name": "Smart Cluster AI Tool",
+  "aliases": [
+    "smart-cluster-ai-tool"
+  ],
+  "repository": "Heated-Bandicoot/smart-cluster-ai-tool",
+  "repository_type": "TOOL",
+  "parent_project_id": "PINNACLE-OMEGA",
+  "status": "IDEA",
+  "version": null,
+  "priority": "MEDIUM",
+  "purpose": "Provisional tool for inventorying and benchmarking local compute nodes and comparing explicit resource-allocation strategies.",
+  "local_paths": [],
+  "dependencies": [
+    "PHOENIX",
+    "URAM-OMEGA"
+  ],
+  "components": [
+    "Node inventory schema",
+    "Capability probes",
+    "Benchmark runner",
+    "Resource comparison reports",
+    "Explicit adapter layer"
+  ],
+  "hardware": [
+    "Declared, user-owned local nodes; capabilities require probing"
+  ],
+  "related_projects": [
+    "PHOENIX",
+    "URAM-OMEGA",
+    "NEURAL-VAULT-OMEGA"
+  ],
+  "evidence_refs": [
+    "github-census:2026-10-09"
+  ],
+  "release_refs": [],
+  "lineage_refs": [],
+  "notes": "Provisional identity based on the repository name. This is starter documentation, not an implementation or validation claim."
+}
